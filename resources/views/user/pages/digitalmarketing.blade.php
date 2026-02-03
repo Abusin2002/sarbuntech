@@ -124,7 +124,7 @@
             <li><i class="bi bi-check-circle"></i> Basic SEO</li>
             <li><i class="bi bi-check-circle"></i> Monthly Report</li>
           </ul>
-          <a href="#" class="btn btn-outline-primary mt-3"><i class="bi bi-telephone"></i> Call Now</a>
+          <a href="/enquire#enquireForm" class="btn btn-outline-primary mt-3"><i class="bi bi-telephone"></i> Enquire Now</a>
         </div>
       </div>
 
@@ -137,7 +137,7 @@
             <li><i class="bi bi-check-circle"></i> SEO Optimization</li>
             <li><i class="bi bi-check-circle"></i> Google Ads / Paid Campaigns</li>
           </ul>
-          <a href="#" class="btn btn-primary mt-3"><i class="bi bi-telephone"></i> Call Now</a>
+          <a href="/enquire#enquireForm" class="btn btn-primary mt-3"><i class="bi bi-telephone"></i> Enquire Now</a>
         </div>
       </div>
 
@@ -150,7 +150,7 @@
             <li><i class="bi bi-check-circle"></i> SEO + Content + Paid Ads</li>
             <li><i class="bi bi-check-circle"></i> Analytics & Priority Support</li>
           </ul>
-          <a href="#" class="btn btn-outline-primary mt-3"><i class="bi bi-telephone"></i> Call Now</a>
+          <a href="/enquire#enquireForm" class="btn btn-outline-primary mt-3"><i class="bi bi-telephone"></i> Enquire Now</a>
         </div>
       </div>
 
@@ -175,7 +175,7 @@
   <div class="container">
     <h2>Ready to Start Your Project?</h2>
     <p class="mt-2">Contact us today and grow your business online</p>
-    <a href="/enquire" class="btn btn-light mt-3"><i class="bi bi-chat-dots"></i>
+    <a href="/enquire#enquireForm" class="btn btn-light mt-3"><i class="bi bi-chat-dots"></i>
  Enquire Now</a>
   </div>
 </section>

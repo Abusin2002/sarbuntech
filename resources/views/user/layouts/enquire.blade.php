@@ -54,8 +54,12 @@
           </div>
 
           <div class="col-lg-6 bordered-form">
-            
 
+
+            
+  <div class="text-center">
+      <h3>Enquire your needs here</h3>
+    </div>
 <form id="enquireForm"
       class="ajax-form"
       data-url="{{ route('enquire.submit') }}"

@@ -117,7 +117,7 @@
             <li><i class="bi bi-check-circle"></i> Free Domain</li>
             <li><i class="bi bi-check-circle"></i> Support</li>
           </ul>
-          <a href="#" class="btn btn-outline-primary mt-3"><i class="bi bi-telephone"></i> Call Now</a>
+          <a href="/enquire#enquireForm" class="btn btn-outline-primary mt-3"><i class="bi bi-telephone"></i> Enquire Now</a>
         </div>
       </div>
 
@@ -130,7 +130,7 @@
             <li><i class="bi bi-check-circle"></i> SEO Included</li>
             <li><i class="bi bi-check-circle"></i> Free Hosting</li>
           </ul>
-          <a href="#" class="btn btn-primary mt-3"><i class="bi bi-telephone"></i> Call Now</a>
+          <a href="/enquire#enquireForm" class="btn btn-primary mt-3"><i class="bi bi-telephone"></i> Enquire Now</a>
         </div>
       </div>
 
@@ -143,7 +143,7 @@
             <li><i class="bi bi-check-circle"></i> Admin Panel</li>
             <li><i class="bi bi-check-circle"></i> Priority Support</li>
           </ul>
-          <a href="#" class="btn btn-outline-primary mt-3"><i class="bi bi-telephone"></i> Call Now</a>
+          <a href="/enquire#enquireForm" class="btn btn-outline-primary mt-3"><i class="bi bi-telephone"></i> Enquire Now</a>
         </div>
       </div>
 
@@ -168,7 +168,7 @@
   <div class="container">
     <h2>Ready to Start Your Project?</h2>
     <p class="mt-2">Contact us today and grow your business online</p>
-    <a href="/enquire" class="btn btn-light mt-3"><i class="bi bi-chat-dots"></i>
+    <a href="/enquire#enquireForm" class="btn btn-light mt-3"><i class="bi bi-chat-dots"></i>
  Enquire Now</a>
   </div>
 </section>

@@ -5,8 +5,9 @@
 @section('content')
 
 
-  
+  <div id="enquire-section" class="mt-5">
     @include('user.layouts.enquire')
+</div>
 
     
 @endsection

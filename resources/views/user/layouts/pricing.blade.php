@@ -27,7 +27,7 @@
   <li><i class="bi bi-check-circle"></i> Referral Bonus 10%</li>
 </ul>
 
-              <a href="/enquire" class="btn-buy"><i class="bi bi-chat-dots"></i>Enquire Now</a>
+              <a href="/enquire#enquireForm" class="btn-buy"><i class="bi bi-chat-dots"></i>Enquire Now</a>
             </div>
           </div><!-- End Pricing Item -->
 
@@ -49,7 +49,7 @@
   <li><i class="bi bi-check-circle"></i> Referral Bonus 10%</li>
 </ul>
 
-              <a href="/enquire" class="btn-buy"><i class="bi bi-chat-dots"></i>Enquire Now</a>
+              <a href="/enquire#enquireForm" class="btn-buy"><i class="bi bi-chat-dots"></i>Enquire Now</a>
             </div>
           </div><!-- End Pricing Item -->
 
@@ -70,7 +70,7 @@
   <li><i class="bi bi-check-circle"></i> HD Shooting</li>
 </ul>
 
-              <a href="/enquire" class="btn-buy"><i class="bi bi-chat-dots"></i>Enquire Now</a>
+              <a href="/enquire#enquireForm" class="btn-buy"><i class="bi bi-chat-dots"></i>Enquire Now</a>
             </div>
           </div><!-- End Pricing Item -->
 
@@ -90,7 +90,7 @@
   <li><i class="bi bi-check-circle"></i> 24/7 Support</li>
 </ul>
 
-              <a href="/enquire" class="btn-buy"><i class="bi bi-chat-dots"></i>Enquire Now</a>
+              <a href="/enquire#enquireForm" class="btn-buy"><i class="bi bi-chat-dots"></i>Enquire Now</a>
             </div>
           </div><!-- End Pricing Item -->
 

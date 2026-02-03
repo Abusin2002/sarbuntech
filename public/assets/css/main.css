@@ -3041,11 +3041,17 @@ section,
 
 /* ---------------------- */
 /* MOBILE HEADER LAYOUT */
-@media (max-width: 768px) {
+@media  (max-width: 768px) {
 
-  .hero{
-    margin-top: 10%;
+  .hero {
+    margin-top: 20%;
   }
+
+  .portfolio{
+    margin-top: 30%;
+
+  }
+
 
   .header .container-xl {
     display: flex;
