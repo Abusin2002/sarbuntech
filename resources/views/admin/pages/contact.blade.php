@@ -40,7 +40,10 @@
                            <td>
                                 {{ ($enquiries->currentPage() - 1) * $enquiries->perPage() + $key + 1 }}
                             </td>
-                            <td>{{ $enquiry->name }}</td>
+                            <td>
+                                {{ $enquiry->name }} <br>
+                                <small>{{ $enquiry->created_at->format('d M Y, h:i A') }}</small>
+                            </td>
                             <td>{{ $enquiry->mobile }}</td>
                             <td>{{ Str::limit($enquiry->message, 40) }}</td>
                             <td>

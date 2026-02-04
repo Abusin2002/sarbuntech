@@ -2,16 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Professional Web & Online Solutions for Business Growth — &lt;SarbunTechnologies/&gt;</title>
 
-      <meta charset="utf-8">
+
+      <!-- Open Graph tags for WhatsApp -->
+    <meta property="og:title" content="Professional Web & Online Solutions for Business Growth — SarbunTechnologies" />
+    <meta property="og:description" content="We build high-performance websites, apps, and digital solutions to grow your business online." />
+    <meta property="og:image" content="https://sarbuntech.devwarriors.in/assets/img/logo3.jpg" />
+    <meta property="og:url" content="https://sarbuntech.devwarriors.in/" />
+    <meta property="og:type" content="website" />
+
+    <!-- Optional but recommended -->
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <title>Professional Web Development & Digital Solutions | SarbunTechnologies</title>
+
+
+      <!-- <meta charset="utf-8"> -->
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta name="description" content="">
-  <meta name="keywords" content="">
+  <meta name="description" content="SarbunTechnologies offers professional web development, SEO, and digital solutions to help businesses grow online." />
+
+  <meta name="google-site-verification" content="B9aKc4ST3umPiBdzBS5XylP5Vnkeet4JB66AHw9Npyg" />
+  <!-- <meta name="description" content="">
+  <meta name="keywords" content=""> -->
 
 <!-- Favicons -->
 <link href="{{ asset('assets/img/logo3.jpg') }}" rel="shortcut icon" type="image/png">
-<link href="{{ asset('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+<link href="{{ asset('assets/img/logo3.jpg') }}" rel="apple-touch-icon">
 
 <!-- Fonts -->
 <link href="https://fonts.googleapis.com" rel="preconnect">
